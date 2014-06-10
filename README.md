@@ -2,8 +2,8 @@ Hybrid Instructors
 ========
 
 
-As an instructor (Luciano)
-So that my students can gain confidence with testing rails
+As an instructor (Luciano, Rose)
+So that my students can gain confidence with testing rails with rspec
 I want some solid materials on using rspec with rails that are totally up to date
 
 As an instructor (Armando)
@@ -13,3 +13,5 @@ I want to grade their work on a server
 As an instructor (Rose)
 So that my students can understand how they are being graded
 I'd like the grading specs and process to be transparent
+
+
